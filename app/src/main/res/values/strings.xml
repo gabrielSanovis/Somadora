@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">somadora</string>
+    <string name="hint_first_value">Digite o primeiro valor</string>
+    <string name="hint_second_value">Digite o segundo valor</string>
+    <string name="button_label">SOMAR</string>
+    <string name="result_label">Resultado:</string>
+</resources>
